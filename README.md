@@ -22,10 +22,9 @@ project-root/
 - Stories show a 3-second progress bar when viewed
 - Option to close the story view
 
-## Live Demo
+## Project Page
 
-Check out the live demo here:[🌐 Project URL](https://mdmoghnishah.github.io/24hr-Story-Feature/)
-
+[🔗 Project URL](https://mdmoghnishah.github.io/24hr-Story-Feature/)
 ## How to Use
 
 1. Click the `+` button to upload an image story.
