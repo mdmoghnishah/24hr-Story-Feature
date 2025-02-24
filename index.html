@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>24-Hour Stories</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+    <div class="story-container" id="storyContainer">
+        <label class="add-story" for="fileInput">+</label>
+        <input type="file" id="fileInput" accept="image/*" style="display: none;">
+
+
+    </div>
+
+    <div id="storyViewer">
+        <div class="progress-bar-container">
+            <div id="progressBar"></div>
+        </div>
+        <img id="viewedStory" src="" alt="Story">
+        <div class="close-btn" onclick="closeStory()">Close</div>
+    </div>
+
+
+    <script src="js/storage.js"></script>
+    <script src="js/story.js"></script>
+    <script src="js/viewer.js"></script>
+</body>
+
+</html>
