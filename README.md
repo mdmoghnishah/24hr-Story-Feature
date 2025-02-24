@@ -24,7 +24,7 @@ project-root/
 
 ## Project Page
 
-[🔗 Project URL](https://mdmoghnishah.github.io/24hr-Story-Feature/)
+🔗 [24-Hour Story Feature](https://mdmoghnishah.github.io/24hr-Story-Feature/)
 
 ## How to Use
 
