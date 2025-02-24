@@ -25,6 +25,7 @@ project-root/
 ## Project Page
 
 [🔗 Project URL](https://mdmoghnishah.github.io/24hr-Story-Feature/)
+https://mdmoghnishah.github.io/24hr-Story-Feature/
 ## How to Use
 
 1. Click the `+` button to upload an image story.
