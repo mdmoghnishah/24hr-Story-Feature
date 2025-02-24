@@ -24,7 +24,7 @@ project-root/
 
 ## Live Demo
 
-Check out the live demo here: https://mdmoghnishah.github.io/24hr-Story-Feature/
+Check out the live demo here:[🌐 Project URL](https://mdmoghnishah.github.io/24hr-Story-Feature/)
 
 ## How to Use
 
